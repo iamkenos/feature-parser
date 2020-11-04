@@ -1,0 +1,4 @@
+{
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[feature]": { "editor.defaultFormatter": "alexkrechik.cucumberautocomplete" }
+}
